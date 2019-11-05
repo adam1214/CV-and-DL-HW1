@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  4Dlg.cpp
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(294): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(297): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(298): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(304): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(308): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(316): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(399): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(402): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(403): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(409): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(413): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(421): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(506): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(509): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(510): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(516): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(520): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(528): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(558): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(561): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(562): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(568): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(572): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(580): warning C4244: '=': 將 'float' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\大四上\cv and dl\hw1\4\4\4dlg.cpp(588): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+  4.cpp
+  正在產生程式碼...
+  4.vcxproj -> D:\大四上\CV and DL\HW1\4\x64\Debug\4.exe
+  4.vcxproj -> D:\大四上\CV and DL\HW1\4\x64\Debug\4.pdb (Partial PDB)

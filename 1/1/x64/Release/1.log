@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  1.cpp
+  1Dlg.cpp
+1Dlg.cpp(165): error C3873: '0x201c': 識別項的第一個字元不可以是此字元
+1Dlg.cpp(165): error C2065: '“Example4': 未宣告的識別項
+1Dlg.cpp(165): error C3872: '0x201d': 不能在識別項中使用這個字元
+1Dlg.cpp(165): error C2065: 'in”': 未宣告的識別項
+1Dlg.cpp(165): error C3861: 'cvNamedWindow': 找不到識別項
